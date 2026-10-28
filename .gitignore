@@ -1,0 +1,5 @@
+/build/
+/firmware/
+*.zip
+__pycache__/
+*.pyc
